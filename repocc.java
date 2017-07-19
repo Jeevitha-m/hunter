@@ -16,5 +16,5 @@ class repocc
                 System.out.print(arr[i]);
                 break;
         }
-     }
+    }
  }
